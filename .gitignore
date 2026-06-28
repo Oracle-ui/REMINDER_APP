@@ -36,3 +36,25 @@ Thumbs.db
 # Large Flutter SDK archives
 flutter_linux_*.tar.xz*
 wget-log
+# Uploaded/test files
+backend/uploads/
+
+# Environment variables
+.env
+.env.*
+
+# Large SDK/download files
+flutter_linux_*.tar.xz*
+wget-log
+
+# Python
+__pycache__/
+*.pyc
+*.db
+.venv/
+venv/
+
+# Flutter
+frontend/build/
+frontend/.dart_tool/
+frontend/.pub-cache/
